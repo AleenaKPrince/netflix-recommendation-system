@@ -1,4 +1,4 @@
-# Netflix Recommendation System
+# Netflix Movie Recommendation System
 
 ## Overview
 This project is an emotion-based Netflix movie recommendation system developed using frontend and backend technologies. The system recommends movies to users based on input and recommendation logic.
